@@ -119,10 +119,6 @@ An **iterative** Tower of Hanoi solver with a **SwiftUI** frontend and a **TypeS
 - **Resource Usage**: High disk counts can exceed typical device or server capabilities due to exponential growth in required resources.
 - **Server Limits**: Google Cloud Functions have execution time and memory usage limits that may be exceeded with very large inputs.
 
-## License
-
-N/A
-
 ## Contact
 
 - **Author**: Gerardo Granados Lopez
