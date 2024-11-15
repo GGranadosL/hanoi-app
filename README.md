@@ -119,37 +119,9 @@ An **iterative** Tower of Hanoi solver with a **SwiftUI** frontend and a **TypeS
 - **Resource Usage**: High disk counts can exceed typical device or server capabilities due to exponential growth in required resources.
 - **Server Limits**: Google Cloud Functions have execution time and memory usage limits that may be exceeded with very large inputs.
 
-## Contributing
-
-Contributions are welcome! Please follow these guidelines:
-
-- **Fork the Repository**
-  - Click the "Fork" button at the top right of the repository page.
-
-- **Create a Feature Branch**
-
-  ```bash
-  git checkout -b feature/YourFeature
-  ```
-
-- **Commit Your Changes**
-
-  ```bash
-  git commit -m "Add your message here"
-  ```
-
-- **Push to Your Fork**
-
-  ```bash
-  git push origin feature/YourFeature
-  ```
-
-- **Create a Pull Request**
-  - Open a pull request against the main repository's `main` branch.
-
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+N/A
 
 ## Contact
 
